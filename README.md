@@ -10,9 +10,9 @@ To get started, simply clone this repository to your local machine:
 git clone https://github.com/BradenStitt/LeetCodeSolutions.git
 
 ## Usage
-Inside the repository, you'll find a set of folders, with each folder representing a different category of problems on LeetCode. Each folder contains a set of solutions to various problems within that category, with each solution clearly labeled with the problem's title, ID, and a brief description of the approach used to solve it.
+Inside the repository, you'll find a set of files, with each file representing a different problem on LeetCode. Each solution is clearly labeled with the problem's title, ID, and some comments of the approach used to solve it.
 
-To view a specific solution, simply navigate to the appropriate folder and open the corresponding file. Each file contains the code for the solution, along with comments explaining the thought process and approach used.
+To view a specific solution, simply navigate to the corresponding file. Each file contains the code for the solution, along with comments explaining the thought process and approach used.
 
 ## Contributing
 While this repository is not open source, I welcome feedback and suggestions from other developers and programmers who may come across my solutions. If you have any suggestions for improving a particular solution or would like to share your own solution to a problem, feel free to open an issue or pull request.
